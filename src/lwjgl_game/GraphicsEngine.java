@@ -11,7 +11,6 @@ import org.lwjgl.opengl.PixelFormat;
 
 public class GraphicsEngine
 {
-	
 	private final String WINDOW_TITLE = "Matt Damon";
 	private final int WIDTH = 800;
 	private final int HEIGHT = 600;
