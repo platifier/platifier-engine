@@ -1,4 +1,4 @@
-package se.haxor.platifierengine;
+package se.haxor.platifierEngine;
 
 public class SceneManager
 {
